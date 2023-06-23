@@ -32,7 +32,7 @@ Après avoir installé le bot pour Google Snake (copier-coller le code du fichie
 
 En fonction du nombre d'application ouvertes / des performances de votre ordi, il peut arriver que le serpent se cogne contre un mur mais c'est normalement très très rare si vous rester bien sur la page du jeu :thumbsup:
 
-![Une image d'illustration du snake-bot](image-1.png)
+![Une image d'illustration du snake-bot](images/snake-bot.webp)
 
 ### Fastfinger (Xav' aura jamais réussi à me battre hehehe)
 
@@ -48,7 +48,7 @@ Vous pouvez aussi préciser le temps que doit mettre le bot à écrire chaque mo
 fasterfinger(2000); // chaque mot mettre 2s à s'écrire
 ```
 
-![Une image d'illustration du bot fasterfinger](image-2.png)
+![Une image d'illustration du bot fasterfinger](images/fasterfinger.webp)
 
 ### Sutom
 
@@ -58,7 +58,7 @@ Le dernier bot en date créé pour Sutom peut se lancer après installation via 
 resolveSutom(); // BRAVOO ! Vous avez gagné !! 🎉🎉
 ```
 
-![Une image d'illustration pour le robot sutom cette fois !](image-3.png)
+![Une image d'illustration pour le robot sutom cette fois !](images/sutom-core.webp)
 
 ## Crédits
 
