@@ -1,8 +1,8 @@
-# Petits bot pour jeu web
+# Petits bots pour jeu web
 
 Florilèges de petits programmes qui vont permetteront de gagner aisément à plusieurs petits jeux rigolos sur internet.
 
-Les jeux piratables par communication NASA-le (une blaque avec l'expression "finger in the nose" + NASA, oue c'est recherché) sont les suivants :
+Les jeux piratables par communication NASA-le (une blague avec l'expression "finger in the nose" + NASA, oue c'est recherché) sont les suivants :
 
 - [Snake](https://www.google.com/search?q=snake+google&rlz=1C1GCEU_frFR1044FR1044&oq=snake+google&aqs=chrome.0.69i59i433i512j0i433i512j0i512l5j69i60.1063j0j7&sourceid=chrome&ie=UTF-8) de Google
 - [Fastfinger](https://10fastfingers.com/typing-test/french) de ... fastfinger
