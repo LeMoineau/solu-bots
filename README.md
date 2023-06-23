@@ -45,7 +45,7 @@ fasterfinger(); // et vroom ça part à toute vitesse !
 Vous pouvez aussi préciser le temps que doit mettre le bot à écrire chaque mot en tapant la commande de la manière suivante :
 
 ```js
-fasterfinger(2000); // chaque mot mettre 2s à s'écrire
+fasterfinger(2000); // chaque mot va mettre 2s à s'écrire
 ```
 
 ![Une image d'illustration du bot fasterfinger](images/fasterfinger.webp)
