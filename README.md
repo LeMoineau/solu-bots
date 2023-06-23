@@ -52,7 +52,7 @@ fasterfinger(2000); // chaque mot mettre 2s à s'écrire
 
 ### Sutom
 
-Le dernier bot en date créé pour Sutom peut se lancer après installation simplement en tapant la commande suivante :
+Le dernier bot en date créé pour Sutom peut se lancer après installation via `sutom-core.js` simplement en tapant la commande suivante :
 
 ```js
 resolveSutom(); // BRAVOO ! Vous avez gagné !! 🎉🎉
